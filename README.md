@@ -1,4 +1,3 @@
-Flask-Session
-=============
+TEMPORARY FORK TO GET SameSite working.
 
-Flask-Session is an extension for Flask that adds support for Server-side Session to your application.
+See https://github.com/fengsp/flask-session/pull/116
